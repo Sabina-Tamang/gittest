@@ -1,0 +1,16 @@
+ls = listing all the files in current directory
+git init = repo intialize
+ls- al = shows all  files as well as hidden files
+git add .=all files stating area where . means all files in current directory
+alternative=> git add inlsdex.html
+git commit -m "message" = create a copy of the current code(snapshot)
+git log= list all of the  commit
+git remote add origin https://github.com/Sabina-Tamang/gittest.git =links local repo to remotoe repo
+git remote -v =list all linked remote repo
+git push  origin branch_name
+git branch =list all the branches
+
+future commit
+git add .
+git commit -m 'small changes'
+git push origin branch_name
